@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<div class="details">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-between">
+        <a class="navbar-brand" href="#">Navbar</a>
+
+        <div class="float-right ">
+            <button class="btn btn-success bg-secondary" type="button">Login</button>
+            <button class="btn btn-success bg-success" type="button">Sign up</button>
+        </div>
+
+    </nav>
+
+    <section>
+        <div class="container" id="root">
+            <!--<div class="row d-flex justify-content-center mt-5 " style="height:400px">
+                <div class="col-md-5">
+                    <div class="card shadow-lg"><img alt="Card image cap"  class="w-100 card-img-top img-fluid"
+                                                  src="./images/Group%2055441.png"/>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex align-items-center " >
+                    <div class="card shadow-lg w-100 h-100 d-flex justify-content-center">
+                        <ul class="list-group list-group-flush ">
+                            <li class="list-group-item"><b>Product name: <small class="float-right">A50</small> </b></li>
+                            <li class="list-group-item"><b>Product cost: <small class="float-right">100$</small> </b></li>
+                            <li class="list-group-item"><b>Made time: <small class="float-right"> 2019.12.19</small> </b></li>
+                            <li class="list-group-item"><b>Available time: <small class="float-right">2020.12.19</small> </b></li>
+                            <li class="list-group-item"><b>Company name: <small class="float-right">Huawei</small> </b></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+    </section>
+
+</div>
+<script src="js/jquery-3.3.1.slim.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script>
+    var token = window.localStorage.getItem("aspNetJwtToken");
+    if (token == null) {
+        window.location.href = "./unauthorize.html";
+    }
+    else {
+        var url_string = window.location.href;
+        var url = new URL(url_string);
+        var param = url.searchParams.get("ProductId");
+        var myHeaders = new Headers();
+        myHeaders.append("Authorization", "Bearer " + token);
+
+        var requestOptions = {
+            method: 'GET',
+            headers: myHeaders,
+            redirect: 'follow'
+        };
+
+        fetch("https://localhost:44304/api/main/getSingleProduct?ProductId=" + param, requestOptions)
+            .then(response => response.text())
+            .then(response => {
+                
+                var result = JSON.parse(response);
+                var html_card = `<div class="col-md-5">
+                    <div class="card shadow-lg"><img alt="Card image cap"  class="w-100 card-img-top img-fluid"
+                                                  src="./images/A50.jfif"/>
+                    </div>
+                </div>
+                <div class="col-md-4 d-flex align-items-center " >
+                    <div class="card shadow-lg w-100 h-100 d-flex justify-content-center">
+                        <ul class="list-group list-group-flush ">
+                            <li class="list-group-item"><b>Product name: <small class="float-right">${result.data.productName}</small> </b></li>
+                            <li class="list-group-item"><b>Product cost: <small class="float-right">${result.data.productCost}</small> </b></li>
+                            <li class="list-group-item"><b>Made time: <small class="float-right">${result.data.madeTime}</small> </b></li>
+                            <li class="list-group-item"><b>Available time: <small class="float-right">${result.data.availableTime}</small> </b></li>
+                            <li class="list-group-item"><b>Company name: <small class="float-right">${result.data.companyName}</small> </b></li>
+                        </ul>
+                    </div>
+                </div>`;
+                var child = document.createElement('div');
+                child.className = "row d-flex justify-content-center mt-5 ";
+                child.innerHTML = html_card;
+                document.getElementById("root").appendChild(child)
+            })
+            .catch(error => console.log('error', error));
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CSRF Zaifligi</title>
+    <link rel="stylesheet" href="./css/bootstrap.css"/>
+</head>
+<body>
+    <h1 class="text-center">CSRF Zaifligi</h1>
+    <div class="container">
+        <div class="row" style="display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="email">EmailAddress</label>
+                    <input id="email" type="email" class="form-control"/>
+                </div>
+                <div class="form-group">
+                    <label for="oldpassword">Password</label>
+                    <input id="oldpassword" type="password" class="form-control"> 
+                </div>
+                <div class="form-group">
+                    <label for="newpassword">New Password</label>
+                    <input id="newpassword" type="password" class="form-control"/>
+                </div>
+                <button class="btn btn-info">Submit</button>
+            </div>
+        </div>
+    </div>
+    <script src="./js/bootstrap.js"></script>
+    <script src="./js/jquery-3.3.1.slim.min.js"></script>
+    <script>
+        function CSFR() {
+            var myHeaders = new Headers();
+            myHeaders.append("Content-Type", "application/json");
+            myHeaders.append("charset", "utf-8");
+            var raw = JSON.stringify({
+                "EmailAddress": document.getElementById("email").value,
+                "Password": document.getElementById("oldpassword").value
+            });
+            var requestOptions = {
+                method: 'POST',
+                headers: myHeaders,
+                body: raw,
+                redirect: 'follow'
+            };
+
+            fetch("https://localhost:44304/api/main/addpassword", requestOptions)
+                .then(response => response.text())
+                .then(result => {
+                    console.log(result);
+                })
+                .catch(error => console.log('error', error));
+        }
+    </script>
+</body>
+</html>

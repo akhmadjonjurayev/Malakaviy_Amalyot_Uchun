@@ -1,0 +1,235 @@
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.Development.json
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.json
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.exe
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.deps.json
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.json
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.dev.json
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Humanizer.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csprojAssemblyReference.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfoInputs.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfo.cs
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CoreCompileInputs.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.Manifest.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.xml
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\scopedcss\bundle\SingleWebIdentityAplication.styles.css
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.RazorTargetAssemblyInfo.cache
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CopyComplete
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.pdb
+D:\pragrammalar\dasturlar\c#\web api\SingleWebIdentityAplication\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.genruntimeconfig.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.json
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.exe
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.deps.json
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.json
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.dev.json
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csprojAssemblyReference.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfoInputs.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfo.cs
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CoreCompileInputs.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.Manifest.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.xml
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\scopedcss\bundle\SingleWebIdentityAplication.styles.css
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.RazorTargetAssemblyInfo.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CopyComplete
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.genruntimeconfig.cache
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WebDeveloper\Desktop\Github\Malakaviy_Amalyot_Uchun-master\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.json
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.exe
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.deps.json
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.json
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.dev.json
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csprojAssemblyReference.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfoInputs.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfo.cs
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CoreCompileInputs.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.Manifest.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.xml
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\scopedcss\bundle\SingleWebIdentityAplication.styles.css
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CopyComplete
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\Ahmadjon\Desktop\Github\Malakaviy_Amalyot_Uchun\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.genruntimeconfig.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\appsettings.json
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.exe
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.deps.json
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.json
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.runtimeconfig.dev.json
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csprojAssemblyReference.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfoInputs.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.AssemblyInfo.cs
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CoreCompileInputs.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.Manifest.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\staticwebassets\SingleWebIdentityAplication.StaticWebAssets.xml
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\scopedcss\bundle\SingleWebIdentityAplication.styles.css
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.RazorTargetAssemblyInfo.cache
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.csproj.CopyComplete
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\ref\SingleWebIdentityAplication.dll
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.pdb
+C:\Users\Sardorbek\Desktop\Github\SingleWebIdentityAplication\obj\Debug\net5.0\SingleWebIdentityAplication.genruntimeconfig.cache
