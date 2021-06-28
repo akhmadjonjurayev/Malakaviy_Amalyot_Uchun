@@ -5979,23 +5979,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sardorbek\\.nuget\\packages\\": {},
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sardorbek\\Desktop\\Github\\CSFR_zaiflik\\CSFR_zaiflik\\CSFR_zaiflik.csproj",
+      "projectUniqueName": "C:\\Users\\WebDeveloper\\Desktop\\Github\\yangi_papka\\Malakaviy_Amalyot_Uchun\\CSFR_zaiflik\\CSFR_zaiflik\\CSFR_zaiflik.csproj",
       "projectName": "CSFR_zaiflik",
-      "projectPath": "C:\\Users\\Sardorbek\\Desktop\\Github\\CSFR_zaiflik\\CSFR_zaiflik\\CSFR_zaiflik.csproj",
-      "packagesPath": "C:\\Users\\Sardorbek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sardorbek\\Desktop\\Github\\CSFR_zaiflik\\CSFR_zaiflik\\obj\\",
+      "projectPath": "C:\\Users\\WebDeveloper\\Desktop\\Github\\yangi_papka\\Malakaviy_Amalyot_Uchun\\CSFR_zaiflik\\CSFR_zaiflik\\CSFR_zaiflik.csproj",
+      "packagesPath": "C:\\Users\\WebDeveloper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WebDeveloper\\Desktop\\Github\\yangi_papka\\Malakaviy_Amalyot_Uchun\\CSFR_zaiflik\\CSFR_zaiflik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sardorbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WebDeveloper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6003,6 +6003,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial\\Nugets\\Windows": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -6059,7 +6060,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
